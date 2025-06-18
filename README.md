@@ -14,13 +14,13 @@ We built a supervised classification model and evaluated its performance using r
 
 ## Features
 
-- ✅ Preprocessing: Tokenization, stopword removal, lemmatization
-- ✅ TF-IDF vectorization with unigrams and bigrams
-- ✅ Multinomial Naive Bayes classification
-- ✅ Hyperparameter tuning with GridSearchCV
-- ✅ Unsupervised K-Means clustering + t-SNE visualization
-- ✅ WordClouds and performance visualizations
-- ✅ Modular pipeline with reusable preprocessing functions
+Preprocessing: Tokenization, stopword removal, lemmatization
+TF-IDF vectorization with unigrams and bigrams
+Multinomial Naive Bayes classification
+Hyperparameter tuning with GridSearchCV
+Unsupervised K-Means clustering + t-SNE visualization
+WordClouds and performance visualizations
+Modular pipeline with reusable preprocessing functions
 
 ## Future Work
 Integrate deep learning models (e.g., BERT, RoBERTa)
